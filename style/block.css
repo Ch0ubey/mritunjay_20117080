@@ -1,0 +1,38 @@
+body{
+    padding: 150px;
+    text-align: center;
+    background-color: rgb(199, 224, 200)
+}
+
+.title{
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.description{
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.current-site{
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(170, 43, 113);
+}
+
+.current-limit{
+    font-weight: 500;
+    color: rgb(82, 68, 201);
+}
+
+.margin-top-10{
+    margin-top: 10px;
+}
+
+.product-title{
+    font-size: 16px;
+    color: rgb(4, 54, 31);
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+}
